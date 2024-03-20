@@ -1,8 +1,4 @@
-# MLOps Class task (exploring github)
-
-## Simple Flask App
-
-This is a simple Flask app that displays "Hello, World!".
+# MLOps Class task (Training Model)
 
 ### Iris Dataset
 
@@ -10,8 +6,8 @@ The Iris dataset is a classic dataset in machine learning and statistics. It con
 
 ### How to Install
 
-1. Clone the repository: `git clone https://github.com/i200697/MLOps_Class`
-2. Navigate to the cloned repository: `cd MLOps_Class`
+1. Clone the repository: `git clone https://github.com/i200697/mlops_task4`
+2. Navigate to the cloned repository: `cd mlops_task4`
 3. Install the requirements: `pip install -r requirements.txt`
 4. Run the app: `python app.py`
 5. Open your browser and go to `http://localhost:5000/`
